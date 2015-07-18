@@ -1,0 +1,10 @@
+d:\podaci\predavacmax02\documents\visual studio 2012\Projects\AdoNetSeminar\PolaznickiForum\bin\PolaznickiForum.dll
+d:\podaci\predavacmax02\documents\visual studio 2012\Projects\AdoNetSeminar\PolaznickiForum\bin\PolaznickiForum.pdb
+d:\podaci\predavacmax02\documents\visual studio 2012\Projects\AdoNetSeminar\PolaznickiForum\obj\Debug\PolaznickiForum.dll
+d:\podaci\predavacmax02\documents\visual studio 2012\Projects\AdoNetSeminar\PolaznickiForum\obj\Debug\PolaznickiForum.pdb
+d:\podaci\predavacmax02\documents\visual studio 2012\Projects\AdoNetSeminar\PolaznickiForum\obj\Debug\PolaznickiForum.csprojResolveAssemblyReference.cache
+C:\Users\programer8\Downloads\AdoNetSeminarDenis\AdoNetSeminar\PolaznickiForum\bin\PolaznickiForum.dll
+C:\Users\programer8\Downloads\AdoNetSeminarDenis\AdoNetSeminar\PolaznickiForum\bin\PolaznickiForum.pdb
+C:\Users\programer8\Downloads\AdoNetSeminarDenis\AdoNetSeminar\PolaznickiForum\obj\Debug\PolaznickiForum.csprojResolveAssemblyReference.cache
+C:\Users\programer8\Downloads\AdoNetSeminarDenis\AdoNetSeminar\PolaznickiForum\obj\Debug\PolaznickiForum.dll
+C:\Users\programer8\Downloads\AdoNetSeminarDenis\AdoNetSeminar\PolaznickiForum\obj\Debug\PolaznickiForum.pdb
